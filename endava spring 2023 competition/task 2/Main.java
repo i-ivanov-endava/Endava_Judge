@@ -1,1 +1,1 @@
-code for runtime error
+code for internal error
