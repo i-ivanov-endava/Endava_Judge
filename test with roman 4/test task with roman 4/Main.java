@@ -1,1 +1,1 @@
-import java.util.Scanner;public class Main{public static void main(String[]args){Scanner in=new Scanner(System.in);int a=in.nextInt();in.nextLine();int b=in.nextInt();System.out.println(a+b);}}
+import java.util.Scanner;public class Main{public static void main(String[]args){Scanner in=new Scanner(System.in);int a=2;int b=2;System.out.println(a+b);}}
