@@ -1,0 +1,1 @@
+some code for task 1 in Endava spring 2024 competition
