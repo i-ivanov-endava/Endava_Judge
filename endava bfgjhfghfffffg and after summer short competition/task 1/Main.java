@@ -1,0 +1,1 @@
+some code for task 1 in Endava bfgjhfghfffffg and after summer short competition
