@@ -1,1 +1,1 @@
-some code for task 3
+some code for task 1 from intern
