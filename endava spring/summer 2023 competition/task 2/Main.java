@@ -1,0 +1,1 @@
+some code for task 2 in Endava spring/summer 2023 competition from qa_external_guest@abv.bg
