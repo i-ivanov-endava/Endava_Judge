@@ -1,1 +1,1 @@
-System.out.println("Endava");
+ public class Main {   public static void main(String[] args) {     log.info("Endava Judge Executor started.");   } }
