@@ -1,1 +1,1 @@
- public class Main {   public static void main(String[] args) {     log.info("Endava Judge Executor started.");   } }
+ public class Main {   public static void main(String[] args) {     System.out.println("Endava Judge Executor started.");   } }
