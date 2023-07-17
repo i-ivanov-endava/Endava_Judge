@@ -1,1 +1,1 @@
-class Main { static {Sysem.out.println("Endava");} }
+class Main { static {System.out.println("Endava");} }
