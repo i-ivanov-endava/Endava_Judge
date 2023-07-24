@@ -1,0 +1,1 @@
+import java.util.Scanner; public class Main {public static void addFunc(String strValue) {int firstNumber = Integer.parseInt(strValue); System.out.println(firstNumber*7 + 24);} public static void main(String[] args) {Scanner scanner = new Scanner(System.in); String line = scanner.nextLine(); addFunc(line);}}
